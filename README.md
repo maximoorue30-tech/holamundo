@@ -75,7 +75,7 @@ holamundo/
 
 ## 📋 Cuestionario Técnico de Control
 
-Las respuestas detalladas a las 10 preguntas de reflexión técnica sobre el entorno de desarrollo, el uso de Inteligencia Artificial, y metas de la carrera técnica se encuentran redactadas dentro del informe PDF ubicado en la carpeta `docs/InformeProyectoHOLAMUNDO.pdf`.
+Las respuestas detalladas a las 10 preguntas de reflexión técnica sobre el entorno de desarrollo, el uso de Inteligencia Artificial, y metas de la carrera técnica se encuentran redactadas dentro del informe PDF ubicado en la carpeta `docs/informeEEST1_LPR2026_ACT02_G03_v1_0_0.pdf`.
 
 ---
 
